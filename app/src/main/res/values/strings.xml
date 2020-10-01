@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeineErsteAppIT12B</string>
+    <string name="title">Dies ist ein Text</string>
+    <string name="red">ROT</string>
+    <string name="Yellow">Gelb</string>
+    <string name="end">Ende</string>
+
+</resources>
